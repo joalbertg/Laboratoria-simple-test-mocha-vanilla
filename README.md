@@ -2,5 +2,8 @@
 
 ## Vanilla
 ```
-mocha ./test/isVowel.spec.js
+$ mocha
+```
+```
+$ mocha ./test/isVowel.spec.js
 ```
